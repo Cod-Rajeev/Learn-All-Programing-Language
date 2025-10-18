@@ -3,7 +3,7 @@ import React from 'react'
 function Footer() {
   return (
     <div>
-        <div className='bg-secondary text-center py-1'>&copy;2025 RAjeev Kumar</div>
+        <div className='bg-secondary text-white text-center py-2'>&copy;2025 RAjeev Kumar</div>
     </div>
   )
 }
