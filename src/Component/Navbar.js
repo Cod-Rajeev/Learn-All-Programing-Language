@@ -23,7 +23,7 @@ function Navbar() {
         </li>
         <li className="nav-item dropdown">
           <a className="nav-link dropdown-toggle" to="/Home" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-            Dropdown
+            DropDown
           </a>
           <ul className="dropdown-menu">
             <li><a className="dropdown-item" href="#">Action</a></li>
@@ -60,14 +60,14 @@ function Navbar() {
     <div className="carousel-item">
       <img src="" className="d-block w-100" alt="..."/>
       <div className="carousel-caption d-none d-md-block">
-        <h5>Second slide label</h5>
+        <h5>Second Slide Label</h5>
         <p>Some representative placeholder content for the second slide.</p>
       </div>
     </div>
     <div className="carousel-item">
       <img src="https://images.pexels.com/photos/580151/pexels-photo-580151.jpeg?auto=compress&cs=tinysrgb&w=600" className="d-block w-100" alt="..."/>
       <div className="carousel-caption d-none d-md-block">
-        <h5>Third slide label</h5>
+        <h5>Third Slide Label</h5>
         <p>Some representative placeholder content for the third slide.</p>
       </div>
     </div>
